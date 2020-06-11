@@ -1,2 +1,2 @@
 # tf-gke-cluster
-Creation of cluster K8S on GKE
+Creation of cluster K8S on GKE with Terraform
