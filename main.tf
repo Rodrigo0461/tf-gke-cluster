@@ -1,4 +1,5 @@
 module "gke" {
-  source = "./modules/gke"
-  env    = "${var.env}"
+  source  = "./modules/gke"
+  project = "${var.project}"
+  env     = "${var.env}"
 }

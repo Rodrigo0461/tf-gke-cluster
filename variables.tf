@@ -1,2 +1,6 @@
 variable env {}
-variable project {}
+variable project {
+    default = "devops-train-labs01"
+}
+
+
