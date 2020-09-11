@@ -1,6 +1,5 @@
-#variable env {}
-#variable project {}
-
+variable env {}
+variable project {}
 
 variable region {
     default= "us-central1"
